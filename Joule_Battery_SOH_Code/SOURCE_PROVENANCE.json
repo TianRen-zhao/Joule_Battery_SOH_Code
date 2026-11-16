@@ -1,0 +1,109 @@
+{
+  "source_archives": [
+    "CRPS_CLEAN_20260926(1).zip",
+    "Joule_Validation_Direct_Run_v2.zip"
+  ],
+  "files": [
+    {
+      "file": "01_raw_data_processing_V2_2_FINAL.py",
+      "original_sha256": "2971cf523dc97e662324e9ad4909573d312815fbabccb7ade442670c0d7371cf",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "02_feature_processing_V2_0_FINAL.py",
+      "original_sha256": "18db2e952219fa4aacd5949a91faad4cb94f03f04f656ba6621ea4d47a6877a8",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "03_cross_domain_feature_selection_V3_0_FINAL.py",
+      "original_sha256": "295e18dad19b7933830ca4ac5d1e329590abf37d8510dec19ed96e8ec744b25a",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "04_cross_domain_ensemble_transfer_learning_V4_0_2.py",
+      "original_sha256": "b0800c72ae41f2261cd2202304e83bf959826aff7954779c8a782727662b18f3",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "05_model_interpretability_V5_0_2_CONDITIONAL_FINAL.py",
+      "original_sha256": "7998c3c0c57417dc57bb1f8dec13ca4ba214cb1eed55131b19bcd90579a47241",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "06_ablation_studies_V6_0_FINAL.py",
+      "original_sha256": "ee7db905ea5732ad3b5b589a36eb1fe8b2c9a3057d39547d3baf30efceecc206",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "07_few_shot_cross_domain_transfer_V7_2_0_CONDITIONAL_FINAL.py",
+      "original_sha256": "2f1033373cc9bb82c8819f5f63d1b75879aa0245db527a0e9a37161380d474b8",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "figures/figure1_dataset_overview.py",
+      "original_sha256": "a2051925f3e719130771081e88cd367b9e25775260a1d0713581cd7ea5b53c84",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "figures/figure2_feature_space.py",
+      "original_sha256": "6092939ab58986d577000769e1b90f456f7d13a7eea6bed05c0bc60f42bbdde4",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "figures/figure3_feature_selection.py",
+      "original_sha256": "966ffee34022d503455eef028a2657aaf0fd816f336dd521ed93050bb3746397",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "figures/figure4_ensemble_transfer_performance.py",
+      "original_sha256": "025d6410175f360566afa15030caf13b4ac971cd1d6e52eaf92e6e1e22d8a2de",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "figures/figure5_interpretability.py",
+      "original_sha256": "d8c833aca9a811ad0966bb86df730f4aa52c73d56cbcbabd87cc60a1d47f5456",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "figures/figure6_ablation.py",
+      "original_sha256": "a6d3053590cdbc65185513974a8d3508c4c5c9d30d6a7ef29baef857a5395731",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "figures/figure7_few_shot_generalization.py",
+      "original_sha256": "975d3058af87e083711314d0c470ae56cd7dcdf91dda9cb35eefdd77b20cbec8",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "figures/plotting_common.py",
+      "original_sha256": "f021294a0384efb9f172f346d9d46d0aca7742f11fcb6ed7caaf665ec3ff53b5",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "08_audit_existing_run.py",
+      "original_sha256": "20feefff20cbc8ffd7d77295ab31146879f09cb128562bc89cd4c0a0b18f5269",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "09_repeat_source_pretraining.py",
+      "original_sha256": "76f0f3b3fa7368fb69f35cf479ee2e829c63b4cd3081382a0a41a929811059ea",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "10_summarize_repeats.py",
+      "original_sha256": "0e6ac623bfd75a2b0463c9a5a55de9d32ba309d12c035c67f5a0b7df3243ad17",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "joule_extension.py",
+      "original_sha256": "1ed5e7a94dbbe2003e375b6d77f6d447f7b614fe8ebf2d63d623639f1ea3c019",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    },
+    {
+      "file": "test_joule_extension.py",
+      "original_sha256": "069638e3f4e01191fe6cf740170523f5ee7a7b2f42b3fc35f1005128876b3a39",
+      "changes": "Removed comments/docstrings, changed default data root; optional 08/09 require explicit run selection; updated optional completion messages."
+    }
+  ],
+  "scientific_configuration": "Training settings, model definitions, feature scoring, split algorithms, seeds and metrics retained. No new experimental results generated."
+}
